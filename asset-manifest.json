@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb9d9917.css",
+    "main.js": "/static/js/main.998ef88c.js",
+    "static/media/final-pres.pptx": "/static/media/final-pres.47901b48df469c822840.pptx",
+    "static/media/p1.pptx": "/static/media/p1.1c7170a6663863d83ee8.pptx",
+    "static/media/p4.pptx": "/static/media/p4.c77908e9f4655992ee8a.pptx",
+    "static/media/final-report.pdf": "/static/media/final-report.b5abbde7fa7237407325.pdf",
+    "static/media/p2.pptx": "/static/media/p2.1f9ad734ee9a37ed6c31.pptx",
+    "static/media/concert.mp4": "/static/media/concert.37fb7e21cb8e28e39117.mp4",
+    "static/media/prototype-v3.pptx": "/static/media/prototype-v3.b947ba22421d03e7f243.pptx",
+    "static/media/final-pres.pdf": "/static/media/final-pres.6a91c2d6248d777eaa21.pdf",
+    "static/media/p3.pptx": "/static/media/p3.db6e7087c3c927e0cbff.pptx",
+    "static/media/p1.pdf": "/static/media/p1.9b0fcd6b27c9df9fa60c.pdf",
+    "static/media/p2.pdf": "/static/media/p2.6bca40d830368fe0d8b1.pdf",
+    "static/media/p4.pdf": "/static/media/p4.96e04bf5f54ec3da3fd5.pdf",
+    "static/media/p3.pdf": "/static/media/p3.da6f63e0e7847521fdb3.pdf",
+    "static/media/prototype-v3.pdf": "/static/media/prototype-v3.05ff72ceab9d05507fc7.pdf",
+    "static/media/final-poster.pdf": "/static/media/final-poster.a81e8a12a153f48df340.pdf",
+    "static/media/emily.png": "/static/media/emily.43d9d2c34318e2ae751f.png",
+    "static/media/gray.png": "/static/media/gray.2654e559794e9f69683e.png",
+    "static/media/tristan.png": "/static/media/tristan.d5cf99c724565eece176.png",
+    "static/media/brent.png": "/static/media/brent.405ff14abc41295490b4.png",
+    "static/media/kayla.jpg": "/static/media/kayla.d55979caedb9f6364092.jpg",
+    "static/media/sophie.jpg": "/static/media/sophie.236066e4210af4499794.jpg",
+    "static/media/caroline.jpg": "/static/media/caroline.5953981baae3a675a2a5.jpg",
+    "static/media/casey.jpg": "/static/media/casey.52e0a445ef575d2863aa.jpg",
+    "index.html": "/index.html",
+    "main.cb9d9917.css.map": "/static/css/main.cb9d9917.css.map",
+    "main.998ef88c.js.map": "/static/js/main.998ef88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9d9917.css",
+    "static/js/main.998ef88c.js"
+  ]
+}
